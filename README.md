@@ -21,9 +21,13 @@ The main goals of this platform are:
 - By default, SMS messages offering match appointments are generated automatically when a match is created, and scheduled to be sent at 3:00pm on Monday afternoons.
 
 
-### SMS Scheduling Diagram
+## SMS Scheduling Diagram
 ![sms-scheduling](./project-documents/resources/images/SMS-scheduling.png)
+### Demo 
+![Referee-Accepts-Appiontment.mov](./project-documents/resources/images/Referee-Accepts-Appointment.mov)
 
 
 ### Appointment Re-assignnment Diagram
 ![automated-referee-replacement.png](./project-documents/resources/images/automated-referee-replacement.png)
+### Demo
+![Referee-Declines-Appointment](./project-documents/resources/images/Referee-Declines-Appointment.mov)
