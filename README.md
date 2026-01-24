@@ -17,7 +17,7 @@ This project is a full-stack web application for managing referee appointments a
 
 ## SMS Scheduling Diagram
 ![sms-scheduling](./project-documents/resources/images/SMS-scheduling.png)
-### Demo 
+### Demo: Referee is offered and accepts a match appointment. 
 https://github.com/user-attachments/assets/349c5b9e-0719-43ba-aae1-5b9fc2476406
 
 - This clip shows the referee accepting the appointment and what this interaction between the user (referee) and the application looks like.
@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/349c5b9e-0719-43ba-aae1-5b9fc2476406
 
 ### Appointment Re-assignnment Diagram
 ![automated-referee-replacement.png](./project-documents/resources/images/automated-referee-replacement.png)
-### Demo
+### Demo: Referees are offered and decline match appointments. 
 https://github.com/user-attachments/assets/bd7e7cc7-8f75-401c-8857-0682b2bfb4d0
 
 
