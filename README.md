@@ -32,4 +32,4 @@ The main goals of this platform are:
 ### Demo
 ![Referee-Declines-Appointment](./project-documents/resources/images/Referee-Declines-Appointment.mov)
 
-![Referee-Declines-Appointment](https://www.youtube.com/watch?v=XyCm6wbBcSM)
+[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=XyCm6wbBcSM)
