@@ -47,9 +47,3 @@ https://github.com/user-attachments/assets/bd7e7cc7-8f75-401c-8857-0682b2bfb4d0
 - The application will offer the match to these referees one by one automatically until one accepts.
 - Note: In this clip, the demo referees all possess my phone number for demo purposes so that I could demonstrate the match being offered to multiple referees. You'll notice the name of the referees change which reflects that in the backend, these messages are being sent to different referees within the system. 
 
-
-<div align="left">
-  <video src="https://youtu.be/XyCm6wbBcSM" width="350" controls>
-    Your browser does not support the video tag.
-  </video>
-</div>
