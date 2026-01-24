@@ -1,6 +1,6 @@
 # Football Victoria Referee Management Platform
 
-This project is a full-stack, web application for managing referee appointments and availability for Football Victoria. The Football Victoria Referees department aims to provide a better experience for referees when appointing them to soccer matches by improving their current process with automation and convenience oriented UX design. This platform adds graphical visualisation to the existing Referees Appointment System.
+This project is a full-stack web application for managing referee appointments and availability for Football Victoria. The Football Victoria Referees department aims to provide a better experience for referees when appointing them to soccer matches by improving their current process with automation and convenience oriented UX design. This platform adds graphical visualisation to the existing Referees Appointment System.
 
 ## Project Overview
 
