@@ -24,7 +24,7 @@ The main goals of this platform are:
 ## SMS Scheduling Diagram
 ![sms-scheduling](./project-documents/resources/images/SMS-scheduling.png)
 ### Demo 
-![Referee-Accepts-Appiontment.mov](./project-documents/resources/images/Referee-Accepts-Appointment.mov)
+![Referee-Accepts-Appiontment.mov](./project-documents/resources/images/Referee-Accepts-Appointent.mov)
 
 
 ### Appointment Re-assignnment Diagram
