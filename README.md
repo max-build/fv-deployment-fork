@@ -33,3 +33,5 @@ The main goals of this platform are:
 ![Referee-Declines-Appointment](./project-documents/resources/images/Referee-Declines-Appointment.mov)
 
 [![Video Title](https://img.youtube.com/vi/XyCm6wbBcSM/0.jpg)](https://www.youtube.com/watch?v=XyCm6wbBcSM)
+
+![Video](https://www.youtube.com/watch?v=XyCm6wbBcSM)
