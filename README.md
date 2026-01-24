@@ -11,9 +11,19 @@ The main goals of this platform are:
 - Address the issue of mass declines in age groups of U12, 13, and 14's fixtures
 - Ensure higher acceptance of appointments
 
+### Note: This is a fork of the main project and has the README abridged to solely cover my messaging functionality for portfolio presentation purposes. 
+
 ## SMS Messaging Sub-System
 
+- The purpose of the SMS Sub-System is to streamline the process of offering appointments to referee's and enabling them to accept or decline them via SMS.
+- The SMS Sub-System also automates the process of finding a new referee to oversee a given soccer match if the original referee declined the match.
+- The automated re-assignment functionality pulls the referees who live near to the venue from the database, and offers it to them one by one until one accepts.
+- By default, SMS messages offering match appointments are generated automatically when a match is created, and scheduled to be sent at 3:00pm on Monday afternoons.
 
 
+### SMS Scheduling Diagram
+![sms-scheduling](./project-documents/resources/images)
 
 
+### Appointment Re-assignnment Diagram
+![automated-referee-replacement.png](./project-documents/resources/images)
