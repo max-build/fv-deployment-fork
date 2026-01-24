@@ -34,4 +34,3 @@ The main goals of this platform are:
 
 [![Video Title](https://img.youtube.com/vi/XyCm6wbBcSM/0.jpg)](https://www.youtube.com/watch?v=XyCm6wbBcSM)
 
-![Video](https://www.youtube.com/watch?v=XyCm6wbBcSM)
