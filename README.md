@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/349c5b9e-0719-43ba-aae1-5b9fc2476406
 
 ### Appointment Re-assignnment Diagram
 ![automated-referee-replacement.png](./project-documents/resources/images/automated-referee-replacement.png)
-### Demo: Referee is offered and delines match appointment, the application offers it to other referees who live near the venue. 
+### Demo: Referee is offered and delines match appointment,the appointment is automatically offered to another referee. 
 https://github.com/user-attachments/assets/bd7e7cc7-8f75-401c-8857-0682b2bfb4d0
 
 
