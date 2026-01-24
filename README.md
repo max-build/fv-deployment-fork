@@ -31,3 +31,5 @@ The main goals of this platform are:
 ![automated-referee-replacement.png](./project-documents/resources/images/automated-referee-replacement.png)
 ### Demo
 ![Referee-Declines-Appointment](./project-documents/resources/images/Referee-Declines-Appointment.mov)
+
+![Referee-Declines-Appointment](https://www.youtube.com/watch?v=XyCm6wbBcSM)
