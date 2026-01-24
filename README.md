@@ -20,7 +20,7 @@ The main goals of this platform are:
 - The automated re-assignment functionality pulls the referees who live near to the venue from the database, and offers it to them one by one until one accepts.
 - By default, SMS messages offering match appointments are generated automatically when a match is created, and scheduled to be sent at 3:00pm on Monday afternoons.
 - A 4 character phrase is generated for each match and must be sent back in the response, this security measure ensures referees can only cancel or confirm their own appointments.
-- The 4 character phrases are bound to the phone number of the referee the match has been offered to, and its unbound then re-bound to a new referee's phone number if the original
+- The 4 character phrases are bound to the phone number of the referee the match has been offered to, and is unbound then re-bound to a new referee's phone number if the original
   referee the match was offered to cancels. 
 
 
