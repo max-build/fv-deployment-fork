@@ -2,7 +2,7 @@
 
 This project is a full-stack web application (Python/DjangoREST + React) for managing referee appointments and availability for Football Victoria. The Football Victoria Referees department aims to provide a better experience for referees when appointing them to soccer matches by improving their current process with automation and convenience oriented design. This platform adds graphical visualisation to the existing Referees Appointment System.
 
-### Note: This is a fork of the main project and has the README abridged to solely cover my messaging functionality for portfolio presentation purposes. 
+### Note: This is a fork of the main project originally made for implementing CI/CD. This fork has the README abridged to solely cover my messaging functionality for portfolio presentation purposes. 
 
 ## SMS Messaging Sub-System
 
