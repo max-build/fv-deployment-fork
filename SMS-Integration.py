@@ -677,7 +677,6 @@ class SMS_Receiver(APIView):
         try: 
             for sms in SMS_Interchange.sms_database:
                 if sms.get_phrase() == phrase.strip().upper() and sender == sms.get_sender():
-                    # send_sms("phrase and sender check works", "61492934088")
                     ref_name = sms.get_referee_name() ## Gets referee_name from sms
                     appointment = sms.get_appointment_ID() ## Gets appointment_ID from sms
                     appointment_instance = Appointment.objects.get(appointment_id=appointment) ## Query retreives instance of appointment from database where it's appointment_id field == sms.get_appointment_ID()
